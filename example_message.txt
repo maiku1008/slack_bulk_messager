@@ -1,0 +1,10 @@
+This is an interesting message,
+With newlines
+    spaces,
+and Other interesting stuff.
+
+Here's an emoji: :sweat_smile:
+Here's a link: www.some-link.com
+And here are some norwegian characters: ÆØå
+
+Enjoy.....
